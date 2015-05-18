@@ -1,6 +1,6 @@
 # Jotto
 
-Jotto is a word-guessing game similar to MineSweeper. A player has a number of guesses and gets information based on their previous guesses.
+Jotto is a word-guessing game similar to MasterMind. A player has a number of guesses and gets information based on their previous guesses.
 
 Design Specs:
 GUI using the Model-View-Controller design pattern.
